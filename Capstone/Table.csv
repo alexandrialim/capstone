@@ -1,0 +1,11 @@
+SAPCE4 Personal consumption expenditures (PCE) by state by function 1/
+SAPCE4 Personal consumption expenditures (PCE) by state by function 1/
+State or DC
+GeoFips,GeoName,LineCode,Description,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+32000,Nevada,1,Personal consumption expenditures,38853.3,41657.4,46167.1,50610.4,53759.1,57068.2,61293.1,67769.6,74539.1,80749.5,85769.9,87424.9,83352.3,85190.2,88441.1,91188.8,94099.5,98451.3,102663.7,106878.1,113091.0,120099.8,125722.2,124030.6,140947.0
+32000,Nevada,2,"  Household consumption expenditures",38276.6,41139.4,45495.1,49925.3,53025.2,56217.2,60439.1,66919.6,73608.1,79238.5,84007.9,85423.5,81388.3,83083.8,86161.2,88619.1,91367.5,95625.8,99634.7,103497.6,109650.9,116412.2,122074.0,119832.0,137188.1
+32000,Nevada,3,"    Food and beverages purchased for off-premises consumption",3621.7,3724.7,4058.3,4329.4,4615.7,4712.4,5095.7,5651.2,5990.3,6589.7,7050.7,7309.3,7165.7,7116.7,7338.9,7538.8,7787.0,8275.5,8679.5,8920.0,9338.3,9688.3,10098.1,11079.1,11896.1
+
+Legend/Footnotes
+1/ All personal consumption expenditures (PCE) estimates are in millions of current dollars (not adjusted for inflation). Calculations are performed on unrounded data.
+"  Last updated: October 6, 2022-- new statistics for 2021; revised statistics for 2017-2020."
